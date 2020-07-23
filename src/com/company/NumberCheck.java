@@ -1,7 +1,4 @@
 package com.company;
-
-import java.util.Scanner;
-
 public class NumberCheck {
     public static void main(String[] args) {
         int[] numbers = {10, 69, 42, 1442, -12};
