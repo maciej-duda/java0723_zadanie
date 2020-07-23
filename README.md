@@ -1,0 +1,1 @@
+To run the NumberCheck program open Git Bash or other commandline application in *"java0723_zadanie/out/artifacts/java_0723_zadanie_jar/"* and use `java -jar java_0723_zadanie.jar <1-5>` - where <1-5> is number from this range, e.g. `java -jar java_0723_zadanie.jar 2`
